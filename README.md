@@ -95,3 +95,21 @@ Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contat
 
 Email: arthurluizvieiray@gmail.com
 LinkedIn: https://www.linkedin.com/in/arthurluizvieirayokomizo/
+
+---
+---
+---
+# About License
+
+EN:
+This project is licensed under the GNU General Public License v3.0.
+You are free to use, modify, and distribute it, even for commercial purposes.
+However, any distributed modifications must also be under this same license, with source code available.
+
+---
+
+# Sobre a Licença
+PT-BR:
+Este projeto está licenciado sob a GNU General Public License v3.0.
+Você pode usar, modificar e distribuir, inclusive para fins comerciais.
+Porém, qualquer modificação que for distribuída também deve estar sob esta mesma licença, com o código-fonte aberto.
