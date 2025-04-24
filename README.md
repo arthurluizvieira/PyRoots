@@ -48,14 +48,7 @@ The repository is organized into different folders, each focused on a specific t
 If you would like to contribute to this repository, feel free to open a pull request with your exercises or improvements.
 Let’s build a strong Python developer community together! 💪
 
-### Contact
 
-If you have any questions or suggestions, please feel free to contact us:
-
-Email: arthurluizvieiray@gmail.com
-LinkedIn: https://www.linkedin.com/in/arthurluizvieirayokomizo/
-
----
 
 ---
 
@@ -90,15 +83,8 @@ O repositório está organizado em diferentes pastas, cada uma focada em um tóp
 ## 🤝 Contribuindo
 Se você deseja contribuir com este repositório, fique à vontade para abrir uma pull request com seus exercícios ou melhorias. Vamos construir juntos uma comunidade forte de desenvolvedores Python!
 
-### Contato
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+---
 
-Email: arthurluizvieiray@gmail.com
-LinkedIn: https://www.linkedin.com/in/arthurluizvieirayokomizo/
-
----
----
----
 # About License
 
 EN:
@@ -113,3 +99,18 @@ PT-BR:
 Este projeto está licenciado sob a GNU General Public License v3.0.
 Você pode usar, modificar e distribuir, inclusive para fins comerciais.
 Porém, qualquer modificação que for distribuída também deve estar sob esta mesma licença, com o código-fonte aberto.
+
+---
+
+### Contact
+
+If you have any questions or suggestions, please feel free to contact us:
+
+Email: arthurluizvieiray@gmail.com
+LinkedIn: https://www.linkedin.com/in/arthurluizvieirayokomizo/
+
+### Contato
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+
+Email: arthurluizvieiray@gmail.com
+LinkedIn: https://www.linkedin.com/in/arthurluizvieirayokomizo/
